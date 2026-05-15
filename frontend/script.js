@@ -1,4 +1,4 @@
-const API = "http://localhost:5000";
+const API = "http://56.228.35.213:5000";
 
 async function loadNotes() {
 
